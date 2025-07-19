@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-▶️ [Click to Try It](https://sentilytics.streamlit.app)
+▶️ [Click to Try It](https://sentilytics-d8zey8zkp354ihwzb2aem7.streamlit.app/)
 
 ---
 
@@ -17,7 +17,6 @@
 - ☁️ Generate word clouds of frequent keywords
 - 📈 Track sentiment trends across data points
 - ⬇️ Download analyzed results
-- 🌗 Custom dark/light theme (Streamlit Cloud)
 
 ---
 
